@@ -1,0 +1,22 @@
+.progessContainer{
+  width: 100%;
+  height: 25px;
+  margin-top: 1.5rem;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: whitesmoke;
+  /* border: 2px solid blue; */
+}
+.load{
+  height: 100%;
+  text-align: center;
+  color: rgb(196, 96, 60);
+  font-size: 17px;
+  background-color: black;
+  transition: width 0.6 ease-in-out;
+}
+.set{
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 30px;
+}
